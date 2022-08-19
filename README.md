@@ -1,4 +1,4 @@
-# t
+# Basic notification with vuex
 
 ## Project setup
 ```
